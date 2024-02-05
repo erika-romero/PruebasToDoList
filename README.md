@@ -1,4 +1,4 @@
-#Pruebas Automatizacion Selenium ToDoList
+## Pruebas Automatizacion Selenium ToDoList
 
 Para ejecutar las pruebas es necesario tener JDK mas reciente
 
